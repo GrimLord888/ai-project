@@ -1,4 +1,3 @@
-Markdown
 # AI-Powered Emergency Response Assistant (Floki)
 
 An intelligent, software-driven healthcare assistant prototype engineered for real-time biometric monitoring, emotional grounding interventions, and automated emergency escalations for elderly care. Developed under the Engineering Technology Innovation Project (ENG40011) framework.
